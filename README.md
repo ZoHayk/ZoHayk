@@ -1,1 +1,1 @@
-![](https://raw.githubusercontent.com/ZoHayk/profile-wall/main/img/dino.gif)
+![](https://raw.githubusercontent.com/ZoHayk/ZoHayk/main/img/dino.gif)
